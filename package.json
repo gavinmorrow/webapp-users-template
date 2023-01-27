@@ -1,5 +1,5 @@
 {
-    "name": "study-guide-wiki",
+    "name": "app",
     "version": "1.0.0",
     "description": "",
     "main": "backend/app.js",
@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/gavinmorrow/study-guide-wiki.git"
+        "url": "git+https://github.com/gavinmorrow/app.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/gavinmorrow/study-guide-wiki/issues"
+        "url": "https://github.com/gavinmorrow/app/issues"
     },
-    "homepage": "https://github.com/gavinmorrow/study-guide-wiki#readme",
+    "homepage": "https://github.com/gavinmorrow/app#readme",
     "dependencies": {
         "bcrypt": "^5.1.0",
         "express": "^4.18.2",
