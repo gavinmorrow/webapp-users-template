@@ -1,6 +1,6 @@
-# study-guide-wiki
+# App
 
-A web app to make studying easier. It helps make study guides in a wiki format.
+This will do amazing things with NodeJS, Docker, PostgrSQL, Express, and a user account system!
 
 ## Setup
 
