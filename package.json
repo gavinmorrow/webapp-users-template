@@ -5,7 +5,7 @@
     "main": "backend/app.js",
     "scripts": {
         "test": "node ./tests/api.test.js",
-        "docker": "npm install && npm run dev",
+        "docker": "npm run dev",
         "dev": "nodemon app.js",
         "start": "node app.js"
     },
